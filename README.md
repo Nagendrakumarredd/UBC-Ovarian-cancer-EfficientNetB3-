@@ -14,10 +14,10 @@ EfficientNetB3 is a convolutional neural network architecture that balances netw
 The dataset used in this project consists of histopathology images of ovarian cancer tissues. The images are preprocessed and augmented to increase the dataset size and variability, improving the model's generalization ability.
 
 # Methodology
-# Data Preprocessing: Images are resized, normalized, and augmented using techniques such as rotation, flipping, and zooming.
-# Model Architecture: EfficientNetB3 architecture is implemented, leveraging its pre-trained weights on ImageNet for transfer learning.
-# Training: The model is trained on the preprocessed dataset with appropriate loss functions and optimizers.
-# Evaluation: The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
+ Data Preprocessing: Images are resized, normalized, and augmented using techniques such as rotation, flipping, and zooming.
+ Model Architecture: EfficientNetB3 architecture is implemented, leveraging its pre-trained weights on ImageNet for transfer learning.
+ Training: The model is trained on the preprocessed dataset with appropriate loss functions and optimizers.
+ Evaluation: The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 # Results
 The EfficientNetB3 model achieved high accuracy in classifying ovarian cancer histopathology images, demonstrating its potential as a reliable tool for assisting in ovarian cancer diagnosis.
 
