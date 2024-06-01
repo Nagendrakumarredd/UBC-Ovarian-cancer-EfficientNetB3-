@@ -34,24 +34,10 @@ Developing a user-friendly interface for practical use by pathologists.
 Installation
 To use this repository, clone it to your local machine and install the necessary dependencies:
 
-# bash
-Copy code
-git clone https://github.com/yourusername/UBC-Ovarian-Cancer-EfficientNetB3.git
-cd UBC-Ovarian-Cancer-EfficientNetB3
-pip install -r requirements.txt
-Usage
-Run the training script to start training the model on your dataset:
 
-bash
-Copy code
-python train.py
-Evaluate the trained model:
 
-bash
-Copy code
-python evaluate.py
-Contributing
-We welcome contributions to enhance this project. Please fork the repository and submit pull requests.
+
+
 
 License
 This project is licensed under the MIT License.
